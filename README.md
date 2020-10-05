@@ -1,5 +1,6 @@
 # Alphabet-Recognisation-Using-Hand-Gesture
 Model is trained on EMNIST Dataset ..... Blue coloured object is taken to act like a pencil </br>
+Sound is also added .i.e the predicted digits will be spoken by the system </br>
 ## Requirement - </br>
 tensorflow</br>
 keras</br>
