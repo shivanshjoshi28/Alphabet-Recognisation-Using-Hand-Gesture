@@ -3,7 +3,7 @@
 ## Overview</br>
 This is a simple app to predict the alphabet that is written on screen using the blue coloured object ( you may change colour .... by changing the upper and lower limit of hsv of that particular colour . Screen act as if like a blackboard . Model of EMNIST is trained on the platform of Keras API .  </br>
 </br>
-Opencv is highly used in it to find the block Inside the picture or the video </br>
+Opencv is highly used in it to find the image processing and other such stuffs .</br>
 
 ![4hdhr3](https://user-images.githubusercontent.com/58811384/95072324-a39d1880-0728-11eb-9170-33855833d08b.gif)
 ## Motivation </br>
