@@ -1,5 +1,5 @@
 # Alphabet-Recognisation-Using-Hand-Gesture
-Model is trained on EMNIST Dataset</br>
+Model is trained on EMNIST Dataset ..... Blue coloured object is taken to act like a pencil </br>
 ## Requirement - </br>
 tensorflow</br>
 keras</br>
