@@ -10,9 +10,9 @@ Opencv is highly used in it to find the image processing and other such stuffs .
 What could have been a perfect way to utilise the lockdown period ? Like most of my time in painting , Netflix . I thought of to start with the Deep Learning . After completing the Artificial Neural Network . I move on to CNN .So this is under that I made .
 
 ## Technical Aspects</br>
-The Project is divided into three parts:
-  1-> Make a model using EMNIST Alphabet dataset using Keras to predict the alphabet
-  2-> Take the reference of blue colour to draw on the screen . and using a deque to store the point of location where the blue object ( reference ) is moving . and predict the alphabet 
+The Project is divided into three parts:</br>
+  1-> Make a model using EMNIST Alphabet dataset using Keras to predict the alphabet</br>
+  2-> Take the reference of blue colour to draw on the screen . and using a deque to store the point of location where the blue object ( reference ) is moving . and predict the alphabet </br>
   3-> Adding a feature of sound ( to speak the predicted alphabet) . 
   
 
